@@ -1,2 +1,2 @@
-# posc-
+# Posc++
 Library for Power-Series Composition
