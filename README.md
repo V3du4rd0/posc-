@@ -3,7 +3,7 @@ Library for Power-Series Composition
 
 ## Requirements and compilation
 
-This library compiles with modern versions of `g++`. In particularly, it has been tested with gcc-14.2.0 and gcc-15.2.1.
+This library compiles with modern versions of `g++`. In particular, it has been tested with gcc-14.2.0 and gcc-15.2.1.
 
 The provided Makefile should avoid any linking issues. Perform a test compilation by running: 
 
