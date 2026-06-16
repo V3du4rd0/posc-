@@ -7,6 +7,8 @@ https://github.com/V3du4rd0/posc-.
 #include "PowerSeries.h"
 #include "functionENV.h"
 
+const cstm_float_t Pi = val(4.0)*c_atan(val(1.0)); 
+
 template <typename T>
 void print_result(T value) {
     if constexpr (std::is_same<T, __float128>::value ) {

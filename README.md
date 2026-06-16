@@ -15,3 +15,9 @@ A successfull compilation will create a directory called `bin` containing the bi
 
 This library supports single, double and quadruple precission. Before compilation, make sure to select the desired precission in the `src/config.h` file.
 
+The file `src/example_test.cpp` contains a minimal example illustrating the use of this library. Once the project has been compiled with `make`, the example can be executed using:
+
+
+```
+bin/example_test
+```
